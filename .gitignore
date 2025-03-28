@@ -1,0 +1,14 @@
+/data/
+.env
+__pycache__
+*.log
+.DS_Store
+.git_credentials
+.pytest_cache
+*.sqlite3
+/env/
+/.idea
+.idea
+/media
+media
+
